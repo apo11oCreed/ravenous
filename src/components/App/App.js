@@ -2,7 +2,6 @@ import React from 'react';
 import BusinessList from '../BusinessList/BusinessList';
 import SearchBar from '../SearchBar/SearchBar';
 import './App.css';
-import Business from '../Business/Business';
 
 function App() {
   return (
